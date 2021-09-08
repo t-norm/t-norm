@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t-norm
 - 👀 I’m interested in coding, gaming, and drone photogrphy.
-- 🌱 I’m currently learning coding fundamentals, full stack development, and other computer sciebce related subjects.
+- 🌱 I’m currently learning coding fundamentals, full stack development, and other computer science related subjects.
 - 💞️ I’m looking to collaborate on web development and games.
 - 📫 How to reach me: tnorman600@gmail.com
 
