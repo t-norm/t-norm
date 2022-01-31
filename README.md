@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning coding fundamentals, full stack development, and other computer science related subjects.
 - 💞️ I’m looking to collaborate on web development and games.
 - 📫 How to reach me: tnorman600@gmail.com
+- 🌐 Full Stack Enginner Portfolio: https://t-norm.github.io/portfolio/
 
 <!---
 t-norm/t-norm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
